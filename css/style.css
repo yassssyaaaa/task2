@@ -5,7 +5,7 @@ main {
   min-height: 100vh;
   padding: 78px 70px 88px;
   margin: 0 auto;
-  background: #FAFAFA url("D:/holme/images/design/background-image.svg");
+  background: #FAFAFA url("./images/design/background-image.svg");
   background-repeat: no-repeat;
   background-position: top 52px right -25px; }
 
@@ -86,7 +86,7 @@ header {
   font-size: 2em;
   color: #464646;
   text-align: center;
-  background: #fff url("D:/holme/images/design/heading.png") center 20px no-repeat;
+  background: #fff url("./images/design/heading.png") center 20px no-repeat;
   padding: 60px 30px 30px;
   background-size: 160px;
   width: 90%;
